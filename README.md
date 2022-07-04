@@ -1,5 +1,5 @@
 # Necessary Packages
-Tensorflow 2, OpenCV 
+Tensorflow 2, OpenCV, Python, Numpy, Pandas
 # How to run the Code
 1. To extract individual tooth from self paniramic images <b> extract_individual_tooth_from_pano.ipynb</b>
 3. To get bone area, tooth and CEJ line mask <b>bone_area_tooth_cej_masks_from_peri.ipynb</b>
