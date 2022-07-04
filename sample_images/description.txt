@@ -1,0 +1,1 @@
+All sample images and corresponding masks.
