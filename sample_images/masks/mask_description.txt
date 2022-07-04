@@ -1,0 +1,1 @@
+This is the masks for panoramic image and bone area, tooth and CEJ Line for periapical image. 
