@@ -1,1 +1,1 @@
-All models' weights are given here.
+Cannot upload the models' weight due to size limit. If you need pretrain models' weight please email corresponding author.
