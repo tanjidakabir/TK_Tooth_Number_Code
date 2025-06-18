@@ -1,9 +1,9 @@
 # Necessary Packages
-- TensorFlow version: 2.4.0,
-- OpenCV version: 4.5.3,
-- Python version: 3.8.5,
-- NumPy version: 1.19.4,
-- Pandas version: 0.25.3,
+- TensorFlow version: 2.4.0
+- OpenCV version: 4.5.3
+- Python version: 3.8.5
+- NumPy version: 1.19.4
+- Pandas version: 0.25.3
 - SciPy version: 1.4.1
 # How to run the Code
 1. To get bone area, tooth and CEJ line masks  <b> load_models_save masks.ipynb</b>
